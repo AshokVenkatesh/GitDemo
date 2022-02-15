@@ -19,4 +19,8 @@ public class SeleniumTest {
 	public void elementsUis() {
 		System.out.println("elementfdsUi");
 	}
+	@Test
+	public void elementsUist() {
+		System.out.println("elementfdsUi");
+	}
 }
